@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866911283564",
+    "project_id": "baseprojectandroid",
+    "storage_bucket": "baseprojectandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866911283564:android:fd29fe2f6e5bf5da13eb49",
+        "android_client_info": {
+          "package_name": "com.raccoontech.baseproject.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmojm5Xn9kfUv_AM2hqEkN3qD7Q86NU8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

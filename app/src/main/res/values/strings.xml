@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BaseProjectAndroid</string>
+    <string name="app_name">BaseProject</string>
+    <string name="loading_ad">Loading Ad ...</string>
 </resources>
